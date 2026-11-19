@@ -1,0 +1,38 @@
+{
+  "name": "pbk-design-skills",
+  "owner": {
+    "name": "Mikel Rosenthal",
+    "email": "mikelrosenthal@me.com",
+    "url": "https://mikelrosenthal.com"
+  },
+  "metadata": {
+    "description": "Claude skills for design practice and brand systems, by Mikel Rosenthal.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "design-practice",
+      "source": "./plugins/design-practice",
+      "description": "Nine skills that carry a product engagement from a raw brief to a developer handoff.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mikel Rosenthal",
+        "email": "mikelrosenthal@me.com",
+        "url": "https://mikelrosenthal.com"
+      },
+      "license": "MIT"
+    },
+    {
+      "name": "brand-systems",
+      "source": "./plugins/brand-systems",
+      "description": "Brand identity, art direction and a token drift check, written so a model can run them.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mikel Rosenthal",
+        "email": "mikelrosenthal@me.com",
+        "url": "https://mikelrosenthal.com"
+      },
+      "license": "MIT"
+    }
+  ]
+}

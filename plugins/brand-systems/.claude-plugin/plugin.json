@@ -1,0 +1,19 @@
+{
+  "name": "brand-systems",
+  "version": "1.0.0",
+  "description": "Brand identity, art direction and a token drift check, written so a model can run them.",
+  "author": {
+    "name": "Mikel Rosenthal",
+    "email": "mikelrosenthal@me.com",
+    "url": "https://mikelrosenthal.com"
+  },
+  "repository": "https://github.com/PitchBlacKnight/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "brand",
+    "identity",
+    "art-direction",
+    "design-tokens",
+    "figma"
+  ]
+}

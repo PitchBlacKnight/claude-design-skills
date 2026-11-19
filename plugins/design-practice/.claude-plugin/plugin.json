@@ -1,0 +1,20 @@
+{
+  "name": "design-practice",
+  "version": "1.0.0",
+  "description": "Nine skills that carry a product engagement from a raw brief to a developer handoff.",
+  "author": {
+    "name": "Mikel Rosenthal",
+    "email": "mikelrosenthal@me.com",
+    "url": "https://mikelrosenthal.com"
+  },
+  "homepage": "https://mikelrosenthal.com/process/skill-library.html",
+  "repository": "https://github.com/PitchBlacKnight/claude-design-skills",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "ux",
+    "design-systems",
+    "accessibility",
+    "audit"
+  ]
+}
